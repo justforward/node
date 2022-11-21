@@ -11,11 +11,52 @@
             "id": "02c16559b6ca85ab",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "存储/mysql.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f07c482371ae07b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算基础/操作系统/linux/进程管理.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9669771edb5bfc2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计算基础/计算机网络/网络层.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b93e57285d749db9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "语言/go/特性.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "语言/go/特性.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "语言/go/特性.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "语言/go/特性.md"
+              }
             }
           }
         ]
@@ -128,8 +173,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "02c16559b6ca85ab",
+  "active": "b93e57285d749db9",
   "lastOpenFiles": [
+    "计算基础/计算机网络/网络层.md",
+    "计算基础/操作系统/linux/进程管理.md",
+    "存储/mysql.md",
     "README.md"
   ]
 }
