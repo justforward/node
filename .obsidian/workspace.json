@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d9f458b08f5e26bf",
+        "id": "742bc09b34101413",
         "type": "tabs",
         "children": [
           {
-            "id": "02c16559b6ca85ab",
+            "id": "1be5a8d79a4ea7f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "存储/mysql.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f07c482371ae07b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算基础/操作系统/linux/进程管理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9669771edb5bfc2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算基础/计算机网络/网络层.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b93e57285d749db9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "语言/go/特性.md",
+                "file": "计算基础/计算机网络/0.0 设计网络.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语言/go/特性.md",
+                "file": "计算基础/计算机网络/0.0 设计网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语言/go/特性.md",
+                "file": "计算基础/计算机网络/0.0 设计网络.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,22 +125,25 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语言/go/特性.md"
+                "file": "计算基础/计算机网络/0.0 设计网络.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b93e57285d749db9",
+  "active": "879282297e31dfe2",
   "lastOpenFiles": [
-    "计算基础/计算机网络/网络层.md",
-    "计算基础/操作系统/linux/进程管理.md",
     "存储/mysql.md",
+    "计算基础/操作系统/linux/进程管理.md",
+    "计算基础/计算机网络/网络层.md",
+    "计算基础/操作系统/linux/1 常用命令/1.1  网络相关.md",
+    "计算基础/操作系统/linux/1 常用命令/0.0 基础系统.md",
+    "语言/go/特性.md",
     "README.md"
   ]
 }
