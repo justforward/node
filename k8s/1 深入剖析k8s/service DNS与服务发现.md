@@ -100,6 +100,10 @@ ginkgo :: ~/config/service % curl 10.96.61.215:80
 实际上，Service是由Kube-proxy组件，加上iptables来共同完成的。
 
 
+https://www.cnblogs.com/kirito-c/p/15145839.html#%E4%BA%8C%E5%AE%B9%E5%99%A8%E7%BD%91%E7%BB%9C%E5%AE%9E%E7%8E%B0%E5%8E%9F%E7%90%86---iptables--bridge--veth
+
+
+
 
 # service 分类
 
