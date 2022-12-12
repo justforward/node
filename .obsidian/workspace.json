@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "742bc09b34101413",
+        "id": "7d143e814d8379e6",
         "type": "tabs",
         "children": [
           {
-            "id": "1be5a8d79a4ea7f5",
+            "id": "df23b97c25b3cf30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "计算基础/计算机网络/0.0 设计网络.md",
+                "file": "k8s/1 深入剖析k8s/service DNS与服务发现.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 219.5
   },
   "right": {
     "id": "28bed43fc0e0a4eb",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "计算基础/计算机网络/0.0 设计网络.md",
+                "file": "k8s/1 深入剖析k8s/service DNS与服务发现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "计算基础/计算机网络/0.0 设计网络.md",
+                "file": "k8s/1 深入剖析k8s/service DNS与服务发现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "计算基础/计算机网络/0.0 设计网络.md"
+                "file": "k8s/1 深入剖析k8s/service DNS与服务发现.md"
               }
             }
           }
@@ -134,16 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
-  "active": "879282297e31dfe2",
+  "active": "df23b97c25b3cf30",
   "lastOpenFiles": [
-    "存储/mysql.md",
-    "计算基础/操作系统/linux/进程管理.md",
-    "计算基础/计算机网络/网络层.md",
-    "计算基础/操作系统/linux/1 常用命令/1.1  网络相关.md",
-    "计算基础/操作系统/linux/1 常用命令/0.0 基础系统.md",
-    "语言/go/特性.md",
-    "README.md"
+    "k8s/1 深入剖析k8s/k8s核心能力与项目定位.md",
+    "语言/go/01 文件操作/读操作.md",
+    "语言/go/01 文件操作/1 文件基本操作.md",
+    "k8s/1 深入剖析k8s/service DNS与服务发现.md",
+    "语言/go/00 基础/3 针对同一个内容的多次不同检查.md",
+    "语言/go/01 文件操作/写操作.md",
+    "语言/go/00 基础/1 特性.md",
+    "语言/go/00 基础/2 格式化输出.md",
+    "存储/kafka.md",
+    "k8s/0 kubectl 命令/常见命令.md"
   ]
 }
