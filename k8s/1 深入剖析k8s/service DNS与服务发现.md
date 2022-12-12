@@ -95,6 +95,11 @@ ginkgo :: ~/config/service % curl 10.96.61.215:80
 
 通过三次连续不断的访问service的VIP地址和代理的端口80，他就为我们依次返回了三个pod的hostname，这个也证明了Serivce提供的是Round Robin方式的负载均衡，对于这种方式，我们成为ClusterIP模式的Service
 
+## 原理
+
+实际上，Service是由Kube-proxy组件，加上iptables来共同完成的。
+
+
 
 # service 分类
 
