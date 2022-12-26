@@ -26,7 +26,8 @@ Goroutine调度器和OS调度器是通过M结合在一起的，每个M都代表�
 
 1、P的数量
 
-由启动的环境变量 $GOMAXPROCS 或者是由runtime的方法GOMAXPROCS() 决定。这意味着在程序执行的任意时刻只有 $GOMAXPROCS个Goroutine正在同时执行。
+由启动的环境变量 $GOMAXPROCS 或者是由runtime的方法GOMAXPROCS()
+(设置可同时使用的cpu个数)决定。这意味着在程序执行的任意时刻只有 $GOMAXPROCS个Goroutine正在同时执行。
 
 2、M的数量
 

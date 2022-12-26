@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语言/go/00 基础/4 runtime 包.md",
+                "file": "语言/go/协程调度器原理以及GMP思想.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语言/go/00 基础/4 runtime 包.md",
+                "file": "语言/go/协程调度器原理以及GMP思想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语言/go/00 基础/4 runtime 包.md",
+                "file": "语言/go/协程调度器原理以及GMP思想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语言/go/00 基础/4 runtime 包.md"
+                "file": "语言/go/协程调度器原理以及GMP思想.md"
               }
             }
           }
@@ -199,6 +199,7 @@
   },
   "active": "ad92e561ba46c7f6",
   "lastOpenFiles": [
+    "语言/go/00 基础/4 runtime 包.md",
     "语言/go/协程调度器原理以及GMP思想.md",
     "语言/go/00 基础/3 针对同一个内容的多次不同检查.md",
     "语言/go/00 基础/2 格式化输出.md",
@@ -207,7 +208,6 @@
     "k8s/1 深入剖析k8s/5.2 深入解析pod对象.md",
     "k8s/1 深入剖析k8s/4.3 第一个k8s应用.md",
     "k8s/1 深入剖析k8s/k8s核心能力与项目定位.md",
-    "k8s/1 深入剖析k8s/service DNS与服务发现.md",
-    "计算基础/操作系统/linux/1 常用命令/2.1 NFS.md"
+    "k8s/1 深入剖析k8s/service DNS与服务发现.md"
   ]
 }
