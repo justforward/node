@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "93fb9b34268bb21f",
+        "id": "a9354ff3564397ec",
         "type": "tabs",
         "children": [
           {
-            "id": "f94cfc246d2bc34d",
+            "id": "7ffae8855de4adb4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "语言/go/00 基础/代码使用/4 json.Unmarshal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "09fe328348eea611",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "语言/go/00 基础/代码使用/5 defer return 的执行顺序.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "057db9513bf152fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "计算基础/操作系统/linux/5 linux内核模块/1 linux 内核模块总览.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b65dac48c9d23384",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "文件传输优化/5、技术分享.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "文件传输优化/5、技术分享.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "文件传输优化/5、技术分享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "文件传输优化/5、技术分享.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,17 +138,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b65dac48c9d23384",
+  "active": "7ffae8855de4adb4",
   "lastOpenFiles": [
-    "计算基础/操作系统/linux/5 linux内核模块/1 linux 内核模块总览.md",
-    "计算基础/操作系统/linux/5 linux内核模块/2 网络相关.md",
-    "nginx/基础使用.md",
-    "语言/go/00 基础/代码使用/5 defer return 的执行顺序.md",
-    "语言/go/00 基础/代码使用/4 json.Unmarshal.md",
-    "计算基础/计算机网络/00 总体理解/自己设计网络(硬件).md",
-    "计算基础/计算机网络/02 其他整理/00 背景知识/什么是NAT.md",
-    "计算基础/计算机网络/02 其他整理/00 背景知识/什么是mtu.md",
-    "计算基础/计算机网络/01 分层讲解/网络层.md",
-    "计算基础/计算机网络/02 其他整理/00 背景知识/TCP IP 协议.md"
+    "语言/0.0 设计网络.md",
+    "计算基础/计算机网络/网络层.md",
+    "计算基础/操作系统/linux/3 内存管理/go的内存模型.md",
+    "计算基础/操作系统/linux/3 内存管理/操作系统内存管理.md",
+    "计算基础/操作系统/linux/4 文件管理/文件管理.md",
+    "k8s/6 k8s存储原理/6.1 持久化存储：PV和PVC的设计与实现原理.md",
+    "k8s/未命名.md",
+    "语言/go/03 协程调度器/00 协程调度器原理以及GMP思想.md",
+    "语言/go/00 基础/6 unsafe pointer.md",
+    "语言/go/00 基础/interface.md"
   ]
 }
