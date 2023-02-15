@@ -11,8 +11,12 @@
             "id": "7ffae8855de4adb4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "文件传输优化/5、技术分享.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "文件传输优化/5、技术分享.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "文件传输优化/5、技术分享.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "文件传输优化/5、技术分享.md"
+              }
             }
           }
         ],
@@ -141,6 +149,7 @@
   "active": "7ffae8855de4adb4",
   "lastOpenFiles": [
     "语言/0.0 设计网络.md",
+    "计算基础/计算机网络/00 总体理解/自己设计网络(硬件).md",
     "计算基础/计算机网络/网络层.md",
     "计算基础/操作系统/linux/3 内存管理/go的内存模型.md",
     "计算基础/操作系统/linux/3 内存管理/操作系统内存管理.md",
@@ -148,7 +157,6 @@
     "k8s/6 k8s存储原理/6.1 持久化存储：PV和PVC的设计与实现原理.md",
     "k8s/未命名.md",
     "语言/go/03 协程调度器/00 协程调度器原理以及GMP思想.md",
-    "语言/go/00 基础/6 unsafe pointer.md",
-    "语言/go/00 基础/interface.md"
+    "语言/go/00 基础/6 unsafe pointer.md"
   ]
 }
