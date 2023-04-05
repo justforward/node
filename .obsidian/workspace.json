@@ -4,35 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "53e5adcabd386ebe",
+        "id": "a9354ff3564397ec",
         "type": "tabs",
         "children": [
           {
-            "id": "a50affc11943ccb9",
+            "id": "7a316f30f00c1f01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语言/go/读书笔记/GO 语言底层原理剖析/函数与栈.md",
+                "file": "语言/go/读书笔记/GO 语言底层原理剖析/9 函数与栈.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3f9d8eaf68741201",
+            "id": "15ae6594e8441571",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语言/go/读书笔记/GO 语言底层原理剖析/并发控制.md",
+                "file": "语言/go/读书笔记/GO 语言底层原理剖析/1 深入GO语言编译器.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b5b09101023035e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "k8s/1 深入剖析k8s/5 k8s编排原理/5.1 为什么我们需要pod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ecaa907bdc63edc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "k8s/1 深入剖析k8s/5 k8s编排原理/5.1 为什么我们需要pod.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44ee27830e777248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "k8s/1 深入剖析k8s/5 k8s编排原理/5.2 深入解析Pod对象.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -82,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 355.5
   },
   "right": {
     "id": "28bed43fc0e0a4eb",
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "语言/go/读书笔记/GO 语言底层原理剖析/并发控制.md",
+                "file": "k8s/1 深入剖析k8s/5 k8s编排原理/5.2 深入解析Pod对象.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "语言/go/读书笔记/GO 语言底层原理剖析/并发控制.md",
+                "file": "k8s/1 深入剖析k8s/5 k8s编排原理/5.2 深入解析Pod对象.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "语言/go/读书笔记/GO 语言底层原理剖析/并发控制.md"
+                "file": "k8s/1 深入剖析k8s/5 k8s编排原理/5.2 深入解析Pod对象.md"
               }
             }
           }
@@ -159,17 +195,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3f9d8eaf68741201",
+  "active": "44ee27830e777248",
   "lastOpenFiles": [
-    "语言/go/读书笔记/GO 语言底层原理剖析/函数与栈.md",
-    "计算基础/操作系统/linux/5 linux内核模块/4、虚拟内存管理/零拷贝.md",
-    "2 run/网络/总览.md",
-    "2 run/1、语言基础/go/内存分配.md",
-    "语言/go/06 汇编语言/计算机结构.md",
-    "语言/go/05 并发/00 CSP.md",
-    "语言/go/05 并发/01 基石一：GoRoutine.md",
-    "语言/go/05 并发/02 基石二：Channel.md",
+    "k8s/1 深入剖析k8s/5 k8s编排原理/5.1 为什么我们需要pod.md",
+    "k8s/1 深入剖析k8s/5 k8s编排原理/5.2 深入解析Pod对象.md",
+    "k8s/1 深入剖析k8s/5 k8s编排原理/未命名 1.md",
+    "语言/go/读书笔记/GO 语言底层原理剖析/1 深入GO语言编译器.md",
+    "k8s/1 深入剖析k8s/5 k8s编排原理",
+    "语言/go/读书笔记/GO 语言底层原理剖析/9 函数与栈.md",
+    "读书笔记/Concurrency In Go.md",
+    "计算基础/操作系统/linux/2 进程管理/线程管理.md",
+    "计算基础/操作系统/linux/4 文件管理/文件系统分块：inode索引.md",
+    "计算基础/操作系统/linux/4 文件管理/虚拟硬盘.md",
+    "计算基础/操作系统/linux/4 文件管理/文件管理.md",
+    "计算基础/操作系统/linux/3 内存管理/操作系统内存管理.md",
+    "计算基础/操作系统/linux/2 进程管理/进程管理.md",
+    "计算基础/操作系统/linux/3 内存管理/go的内存模型.md",
+    "k8s/1 深入剖析k8s/k8s核心能力与项目定位.md",
+    "k8s/1 深入剖析k8s/service DNS与服务发现.md",
+    "k8s/6 k8s存储原理/6.1 持久化存储：PV和PVC的设计与实现原理.md",
+    "k8s/1 深入剖析k8s/5.2 深入解析pod对象.md",
+    "k8s/1 深入剖析k8s/4.3 第一个k8s应用.md",
+    "1 要求/未命名.md",
+    "语言/go/读书笔记/GO 语言底层原理剖析/并发控制.md",
+    "语言/go/读书笔记/GO 语言底层原理剖析/18 内存分配管理.md",
+    "语言/go/读书笔记/未命名.md",
+    "语言/go/读书笔记/GO 语言底层原理剖析/7 切片使用方法与底层原理.md",
+    "语言/go/读书笔记/GO 语言底层原理剖析/20 深入垃圾回收全流程.md",
+    "0 图片/Pasted image 20230305160839.png",
+    "0 图片/Pasted image 20230305160737.png",
+    "语言/go/03 协程调度器/01 更加细节--源码阅读.md",
     "语言/go/03 协程调度器/00 协程调度器原理以及GMP思想.md",
-    "语言/go/03 协程调度器/01 更加细节--源码阅读.md"
+    "语言/go/读书笔记/GO 语言底层原理剖析",
+    "语言/go/读书笔记",
+    "计算基础/操作系统/读书笔记/一个64位操作系统的设计与实现",
+    "计算基础/操作系统/读书笔记",
+    "计算基础/操作系统/linux/6 linux操作系统/进程管理",
+    "计算基础/操作系统/linux/6 linux操作系统/内存管理",
+    "计算基础/操作系统/linux/6 linux操作系统",
+    "计算基础/操作系统/linux/5 linux内核模块/4、虚拟内存管理",
+    "计算基础/操作系统/linux/5 linux内核模块/3 文件系统模块",
+    "0 图片/Pasted image 20230223112130.png",
+    "0 图片/Pasted image 20230222172957.png",
+    "0 图片/Pasted image 20230222171646.png",
+    "0 图片/Pasted image 20230222170603.png",
+    "0 图片/Pasted image 20230222170546.png",
+    "0 图片/Pasted image 20230221195033.png",
+    "0 图片/Pasted image 20230221173155.png",
+    "0 图片/Pasted image 20230220192057.png"
   ]
 }
